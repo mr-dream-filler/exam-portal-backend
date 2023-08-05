@@ -21,7 +21,7 @@ public class Question {
     private String content;
 
     @Column(name = "image")
-    private String image;
+    private String content2;
 
     @Column(name = "option1")
     private String option1;
